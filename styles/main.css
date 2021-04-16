@@ -1,0 +1,36 @@
+/*
+#A7AEC6 med-blue-gray
+#C6BFA7 tan
+#EEECE5 bg-color
+#666262 text-color
+*/
+
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 200;
+  font-size: 16px;
+  background-color: #EEECE5;
+  color: #666262;
+}
+
+header {
+
+}
+
+main {
+
+}
+
+footer {
+
+}

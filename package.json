@@ -1,0 +1,12 @@
+{
+  "name": "audio-boombox",
+  "version": "0.1.0",
+  "description": "an audio player using Web Audio API",
+  "main": "index.html",
+  "repository": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Carroll",
+  "license": "MIT"
+}
