@@ -1,3 +1,7 @@
+/*
+This is the original stylesheet for the audio boombox on the codepen page.
+*/
+
 :root {
 	--orange: hsla(32, 100%, 50%, 1);
 	--yellow: hsla(49, 99%, 50%, 1);

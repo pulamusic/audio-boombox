@@ -1,3 +1,4 @@
+// ======== audio player ========
 console.clear();
 
 // instigate our audio context
@@ -75,7 +76,3 @@ powerButton.addEventListener('click', function() {
 }, false);
 
 // Track credit: Outfoxing the Fox by Kevin MacLeod under Creative Commons
-
-
-
-
